@@ -14,5 +14,8 @@
    - Thread Pool
    - Queue, BlockingQueue
 
+<details><summary>Click to expand</summary>
+
+</details>
 `@Service
 public class printService{`
