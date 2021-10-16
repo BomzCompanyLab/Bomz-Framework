@@ -134,7 +134,7 @@ public abstract class SupinanThread{
 	
 	/**
 	 * SupinanThreadPool.close() ȣ�� �� �������� �������� ���� ���Ḧ ���� ȣ��
-	 * @see com.supinan.custom.util.SupinanThreadPool
+	 * @see kr.co.bomz.custom.util.SupinanThreadPool
 	 */
 	void coercionClose(boolean isSleep){
 		this.coercionClose = true;		// ���� ���� ����
